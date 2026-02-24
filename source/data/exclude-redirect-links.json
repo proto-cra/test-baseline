@@ -1,0 +1,10 @@
+[
+  {
+    "origin": "https://www.canada.ca/en.html",
+    "destination": "/test-baseline/en.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html",
+    "destination": "/test-baseline/en/revenue-agency/services/e-services/cra-login-services.html"
+  }
+]
